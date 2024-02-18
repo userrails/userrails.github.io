@@ -4,7 +4,7 @@
   <id>http://shivrajbadu.com.np/</id>
   <title>Let's code</title>
   <subtitle>This blog provides you the articles about various topics on various programming language.</subtitle>
-  <updated>2024-02-18T12:28:35+05:45</updated>
+  <updated>2024-02-18T17:11:11+05:45</updated>
   <author>
     <name>Shivraj Badu</name>
     <uri>http://shivrajbadu.com.np/</uri>
@@ -17,6 +17,46 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Tailwind CSS Transitions And Animations</title>
+    <link href="http://shivrajbadu.com.np/posts/tailwind-css-transitions-and-animations/" rel="alternate" type="text/html" title="Tailwind CSS Transitions And Animations" />
+    <published>2024-01-10T10:30:18+05:45</published>
+  
+    <updated>2024-01-10T10:30:18+05:45</updated>
+  
+    <id>http://shivrajbadu.com.np/posts/tailwind-css-transitions-and-animations/</id>
+    <content src="http://shivrajbadu.com.np/posts/tailwind-css-transitions-and-animations/" />
+    <author>
+      <name>Shivraj Badu</name>
+    </author>
+
+  
+    
+    <category term="Tailwind CSS" />
+    
+    <category term="Transitions and Animations" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      Transitions and animations can add a polished and interactive feel to your web application. Tailwind CSS provides utility classes to easily apply transitions and animations to elements.
+
+Transitions
+
+Transitions allow you to smoothly animate changes to CSS properties, such as changing colors, sizes, or positions. Tailwind CSS provides utility classes to specify transition properties and duratio...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -180,52 +220,6 @@ Tailwind CSS provides utility classes to easily style buttons. You can use class
 
 
 Bu...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Tailwind CSS Styling Background and Borders</title>
-    <link href="http://shivrajbadu.com.np/posts/tailwind-css-background-and-borders/" rel="alternate" type="text/html" title="Tailwind CSS Styling Background and Borders" />
-    <published>2024-01-05T11:40:18+05:45</published>
-  
-    <updated>2024-01-05T11:40:18+05:45</updated>
-  
-    <id>http://shivrajbadu.com.np/posts/tailwind-css-background-and-borders/</id>
-    <content src="http://shivrajbadu.com.np/posts/tailwind-css-background-and-borders/" />
-    <author>
-      <name>Shivraj Badu</name>
-    </author>
-
-  
-    
-    <category term="Tailwind CSS" />
-    
-    <category term="Styling Background And Borders" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      Let’s explore some basic utility classes provided by Tailwind CSS for styling text elements.
-
-Background Color
-
-You can set the background color of an element using utility classes like bg-red-500, bg-blue-700, etc., where the number represents the shade of the color.
-
-&amp;lt;div class="bg-red-500 p-4"&amp;gt;
-    &amp;lt;p&amp;gt;Red Background&amp;lt;/p&amp;gt;
-&amp;lt;/div&amp;gt;
-&amp;lt;div class="bg-blue-700 p-4"&amp;gt;
-    &amp;...
     </summary>
   
 
